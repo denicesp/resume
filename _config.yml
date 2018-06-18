@@ -1,6 +1,7 @@
 # Site settings
 title: "denicesp's resume"
-description: "denicesp excellent resume."
+description: "denicesp's excellent resume."
+
 
 # Build settings
 markdown: kramdown
