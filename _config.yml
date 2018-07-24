@@ -11,11 +11,11 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Skatetocat"
-resume_title:                   "Professional Skater"
+resume_name:                    "Denice"
+resume_title:                   "Web Developer"
 resume_contact_email:           "skatetocat@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
-resume_contact_address:         "San Francisco, California"
+resume_contact_telephone:       "(555) 555-555"
+resume_contact_address:         "Pennsylvania"
 resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | skatetocat@github.com"
 resume_header_intro: "<p>Professional Skater, 'nuff said.</p>"
 
